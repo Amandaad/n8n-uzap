@@ -8,6 +8,8 @@ Http Request Importar o codigo indepoint.
 Endepoint 
 
 **Uzap:**
+
+
 {
 curl --location -g '{{endpoint}}/sendText' \
 --header 'content-type: application/json' \
