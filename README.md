@@ -5,10 +5,10 @@ Deploy no #Docker
 ###Criei uma automação não nativa Uzap envio de mensagem automática.###
 Http Request Importar o codigo indepoint.
 
-Endepoint 
+
 
 **Uzap:**
-
+Endepoint 
 
 {
 curl --location -g '{{endpoint}}/sendText' \
